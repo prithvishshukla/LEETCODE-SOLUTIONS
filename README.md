@@ -9,6 +9,7 @@
 | [0001-two-sum](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/0001-two-sum) |
 | [0035-search-insert-position](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/0035-search-insert-position) |
 | [0854-making-a-large-island](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/0854-making-a-large-island) |
+| [3429-special-array-i](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/3429-special-array-i) |
 ## Hash Table
 |  |
 | ------- |
