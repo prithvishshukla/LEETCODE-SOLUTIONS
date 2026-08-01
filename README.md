@@ -8,6 +8,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/0001-two-sum) |
 | [0035-search-insert-position](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/0035-search-insert-position) |
+| [0486-predict-the-winner](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/0628-maximum-product-of-three-numbers) |
 | [0854-making-a-large-island](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/0854-making-a-large-island) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -52,6 +53,7 @@
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/0231-power-of-two) |
+| [0486-predict-the-winner](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/0628-maximum-product-of-three-numbers) |
 | [2448-count-number-of-bad-pairs](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/2448-count-number-of-bad-pairs) |
 ## Counting
@@ -70,4 +72,13 @@
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/0231-power-of-two) |
+| [0486-predict-the-winner](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/0486-predict-the-winner) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/0486-predict-the-winner) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
