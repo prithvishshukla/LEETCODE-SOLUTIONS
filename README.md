@@ -18,6 +18,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/0013-roman-to-integer) |
 | [2448-count-number-of-bad-pairs](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/2448-count-number-of-bad-pairs) |
 ## Binary Search
 |  |
@@ -52,6 +53,7 @@
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/0013-roman-to-integer) |
 | [0231-power-of-two](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/0231-power-of-two) |
 | [0486-predict-the-winner](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/0628-maximum-product-of-three-numbers) |
@@ -81,4 +83,8 @@
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/0486-predict-the-winner) |
+## String
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
