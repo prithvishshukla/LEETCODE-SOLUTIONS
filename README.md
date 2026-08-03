@@ -62,6 +62,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/0628-maximum-product-of-three-numbers) |
 | [2448-count-number-of-bad-pairs](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/2448-count-number-of-bad-pairs) |
 | [2652-sum-multiples](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/2652-sum-multiples) |
+| [2894-divisible-and-non-divisible-sums-difference](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 ## Counting
 |  |
 | ------- |
