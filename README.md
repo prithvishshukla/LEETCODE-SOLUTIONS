@@ -88,6 +88,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/0021-merge-two-sorted-lists) |
 | [0231-power-of-two](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/0231-power-of-two) |
 | [0486-predict-the-winner](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/0486-predict-the-winner) |
 | [1922-count-good-numbers](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/1922-count-good-numbers) |
@@ -121,4 +122,8 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/0026-remove-duplicates-from-sorted-array) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
