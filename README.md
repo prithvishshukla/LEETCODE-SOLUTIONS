@@ -17,6 +17,7 @@
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2448-count-number-of-bad-pairs](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/2448-count-number-of-bad-pairs) |
 | [2942-find-words-containing-character](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/2942-find-words-containing-character) |
+| [2974-minimum-number-game](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/2974-minimum-number-game) |
 | [3429-special-array-i](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/3429-special-array-i) |
 | [3731-find-missing-elements](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/3731-find-missing-elements) |
 ## Hash Table
@@ -79,6 +80,7 @@
 |  |
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/0628-maximum-product-of-three-numbers) |
+| [2974-minimum-number-game](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/2974-minimum-number-game) |
 | [3731-find-missing-elements](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/3731-find-missing-elements) |
 ## Bit Manipulation
 |  |
@@ -118,6 +120,7 @@
 | ------- |
 | [0067-add-binary](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/0067-add-binary) |
 | [0657-robot-return-to-origin](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/0657-robot-return-to-origin) |
+| [2974-minimum-number-game](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/2974-minimum-number-game) |
 ## Two Pointers
 |  |
 | ------- |
@@ -126,4 +129,8 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/0021-merge-two-sorted-lists) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2974-minimum-number-game](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/2974-minimum-number-game) |
 <!---LeetCode Topics End-->
