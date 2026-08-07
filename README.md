@@ -94,6 +94,7 @@
 | [0231-power-of-two](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/0231-power-of-two) |
 | [0389-find-the-difference](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/0389-find-the-difference) |
 | [0401-binary-watch](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/0401-binary-watch) |
+| [3955-valid-binary-strings-with-cost-limit](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/3955-valid-binary-strings-with-cost-limit) |
 ## Recursion
 |  |
 | ------- |
@@ -119,6 +120,7 @@
 | [0389-find-the-difference](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/0389-find-the-difference) |
 | [0657-robot-return-to-origin](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/0657-robot-return-to-origin) |
 | [2942-find-words-containing-character](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/2942-find-words-containing-character) |
+| [3955-valid-binary-strings-with-cost-limit](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/3955-valid-binary-strings-with-cost-limit) |
 ## Stack
 |  |
 | ------- |
@@ -149,4 +151,9 @@
 |  |
 | ------- |
 | [0401-binary-watch](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/0401-binary-watch) |
+| [3955-valid-binary-strings-with-cost-limit](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/3955-valid-binary-strings-with-cost-limit) |
+## Enumeration
+|  |
+| ------- |
+| [3955-valid-binary-strings-with-cost-limit](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/3955-valid-binary-strings-with-cost-limit) |
 <!---LeetCode Topics End-->
