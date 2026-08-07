@@ -88,6 +88,7 @@
 | ------- |
 | [0067-add-binary](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/0136-single-number) |
+| [0191-number-of-1-bits](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/0231-power-of-two) |
 ## Recursion
 |  |
@@ -135,4 +136,8 @@
 |  |
 | ------- |
 | [2974-minimum-number-game](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/2974-minimum-number-game) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
