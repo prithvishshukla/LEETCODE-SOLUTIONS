@@ -90,6 +90,7 @@
 | [0136-single-number](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/0231-power-of-two) |
+| [0401-binary-watch](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/0401-binary-watch) |
 ## Recursion
 |  |
 | ------- |
@@ -140,4 +141,8 @@
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/0191-number-of-1-bits) |
+## Backtracking
+|  |
+| ------- |
+| [0401-binary-watch](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/0401-binary-watch) |
 <!---LeetCode Topics End-->
