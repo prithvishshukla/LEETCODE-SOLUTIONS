@@ -26,6 +26,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/0013-roman-to-integer) |
+| [0389-find-the-difference](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/0389-find-the-difference) |
 | [2448-count-number-of-bad-pairs](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/2448-count-number-of-bad-pairs) |
 | [3731-find-missing-elements](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/3731-find-missing-elements) |
 ## Binary Search
@@ -80,6 +81,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0389-find-the-difference](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/0389-find-the-difference) |
 | [0628-maximum-product-of-three-numbers](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/0628-maximum-product-of-three-numbers) |
 | [2974-minimum-number-game](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/2974-minimum-number-game) |
 | [3731-find-missing-elements](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/3731-find-missing-elements) |
@@ -90,6 +92,7 @@
 | [0136-single-number](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/0231-power-of-two) |
+| [0389-find-the-difference](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/0389-find-the-difference) |
 | [0401-binary-watch](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/0401-binary-watch) |
 ## Recursion
 |  |
@@ -113,6 +116,7 @@
 | [0020-valid-parentheses](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/0020-valid-parentheses) |
 | [0067-add-binary](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/0067-add-binary) |
 | [0171-excel-sheet-column-number](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/0171-excel-sheet-column-number) |
+| [0389-find-the-difference](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/0389-find-the-difference) |
 | [0657-robot-return-to-origin](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/0657-robot-return-to-origin) |
 | [2942-find-words-containing-character](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/2942-find-words-containing-character) |
 ## Stack
