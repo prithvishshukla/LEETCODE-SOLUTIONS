@@ -10,6 +10,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/0035-search-insert-position) |
+| [0036-valid-sudoku](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/0036-valid-sudoku) |
 | [0136-single-number](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/0136-single-number) |
 | [0486-predict-the-winner](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/0628-maximum-product-of-three-numbers) |
@@ -27,6 +28,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/0013-roman-to-integer) |
+| [0036-valid-sudoku](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/0036-valid-sudoku) |
 | [0187-repeated-dna-sequences](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/0187-repeated-dna-sequences) |
 | [0389-find-the-difference](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/0389-find-the-difference) |
 | [2448-count-number-of-bad-pairs](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/2448-count-number-of-bad-pairs) |
@@ -61,6 +63,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/0036-valid-sudoku) |
 | [0854-making-a-large-island](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/0854-making-a-large-island) |
 | [1672-richest-customer-wealth](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/1672-richest-customer-wealth) |
 ## Math
