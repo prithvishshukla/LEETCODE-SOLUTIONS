@@ -16,6 +16,7 @@
 | [0854-making-a-large-island](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/0854-making-a-large-island) |
 | [1672-richest-customer-wealth](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/1672-richest-customer-wealth) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2448-count-number-of-bad-pairs](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/2448-count-number-of-bad-pairs) |
 | [2942-find-words-containing-character](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/2942-find-words-containing-character) |
 | [2974-minimum-number-game](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/2974-minimum-number-game) |
@@ -119,6 +120,7 @@
 | [0171-excel-sheet-column-number](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/0171-excel-sheet-column-number) |
 | [0389-find-the-difference](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/0389-find-the-difference) |
 | [0657-robot-return-to-origin](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/0657-robot-return-to-origin) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2942-find-words-containing-character](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/2942-find-words-containing-character) |
 | [3955-valid-binary-strings-with-cost-limit](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/3955-valid-binary-strings-with-cost-limit) |
 ## Stack
