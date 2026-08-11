@@ -22,6 +22,7 @@
 | [2448-count-number-of-bad-pairs](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/2448-count-number-of-bad-pairs) |
 | [2942-find-words-containing-character](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/2942-find-words-containing-character) |
 | [2974-minimum-number-game](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/2974-minimum-number-game) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3429-special-array-i](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/3429-special-array-i) |
 | [3731-find-missing-elements](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/3731-find-missing-elements) |
 ## Hash Table
@@ -33,6 +34,7 @@
 | [0187-repeated-dna-sequences](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/0187-repeated-dna-sequences) |
 | [0389-find-the-difference](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/0389-find-the-difference) |
 | [2448-count-number-of-bad-pairs](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/2448-count-number-of-bad-pairs) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/3731-find-missing-elements) |
 ## Binary Search
 |  |
@@ -93,6 +95,7 @@
 | [0389-find-the-difference](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/0389-find-the-difference) |
 | [0628-maximum-product-of-three-numbers](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/0628-maximum-product-of-three-numbers) |
 | [2974-minimum-number-game](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/2974-minimum-number-game) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/3731-find-missing-elements) |
 ## Bit Manipulation
 |  |
