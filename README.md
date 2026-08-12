@@ -16,6 +16,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/0628-maximum-product-of-three-numbers) |
 | [0782-transform-to-chessboard](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/0782-transform-to-chessboard) |
 | [0854-making-a-large-island](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/0854-making-a-large-island) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1672-richest-customer-wealth](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/1672-richest-customer-wealth) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -109,6 +110,7 @@
 | [0389-find-the-difference](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/0389-find-the-difference) |
 | [0401-binary-watch](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/0401-binary-watch) |
 | [0782-transform-to-chessboard](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/0782-transform-to-chessboard) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/1018-binary-prefix-divisible-by-5) |
 | [3955-valid-binary-strings-with-cost-limit](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/3955-valid-binary-strings-with-cost-limit) |
 ## Recursion
 |  |
