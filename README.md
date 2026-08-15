@@ -81,6 +81,7 @@
 | [0067-add-binary](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/0067-add-binary) |
 | [0171-excel-sheet-column-number](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/0171-excel-sheet-column-number) |
 | [0231-power-of-two](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/0231-power-of-two) |
+| [0464-can-i-win](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/0464-can-i-win) |
 | [0486-predict-the-winner](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/0628-maximum-product-of-three-numbers) |
 | [0782-transform-to-chessboard](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/0782-transform-to-chessboard) |
@@ -113,6 +114,7 @@
 | [0231-power-of-two](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/0231-power-of-two) |
 | [0389-find-the-difference](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/0389-find-the-difference) |
 | [0401-binary-watch](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/0401-binary-watch) |
+| [0464-can-i-win](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/0464-can-i-win) |
 | [0782-transform-to-chessboard](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/0782-transform-to-chessboard) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/1018-binary-prefix-divisible-by-5) |
 | [3955-valid-binary-strings-with-cost-limit](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/3955-valid-binary-strings-with-cost-limit) |
@@ -126,10 +128,12 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0464-can-i-win](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/0464-can-i-win) |
 | [0486-predict-the-winner](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/0486-predict-the-winner) |
 ## Game Theory
 |  |
 | ------- |
+| [0464-can-i-win](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/0464-can-i-win) |
 | [0486-predict-the-winner](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/0486-predict-the-winner) |
 ## String
 |  |
@@ -204,4 +208,12 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/0169-majority-element) |
+## Memoization
+|  |
+| ------- |
+| [0464-can-i-win](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/0464-can-i-win) |
+## Bitmask
+|  |
+| ------- |
+| [0464-can-i-win](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/0464-can-i-win) |
 <!---LeetCode Topics End-->
