@@ -141,6 +141,7 @@
 | [0006-zigzag-conversion](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/0006-zigzag-conversion) |
 | [0013-roman-to-integer](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/0020-valid-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0067-add-binary](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/0067-add-binary) |
 | [0171-excel-sheet-column-number](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/0171-excel-sheet-column-number) |
 | [0187-repeated-dna-sequences](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/0187-repeated-dna-sequences) |
@@ -163,6 +164,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 ## Linked List
 |  |
 | ------- |
@@ -200,10 +202,12 @@
 ## Z Algorithm
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0187-repeated-dna-sequences](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/0187-repeated-dna-sequences) |
 ## Boyer–Moore String-Search Algorithm
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0187-repeated-dna-sequences](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/0187-repeated-dna-sequences) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
@@ -217,4 +221,12 @@
 |  |
 | ------- |
 | [0464-can-i-win](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/0464-can-i-win) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
