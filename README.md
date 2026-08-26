@@ -15,6 +15,7 @@
 | [0136-single-number](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/0169-majority-element) |
 | [0486-predict-the-winner](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/0486-predict-the-winner) |
+| [0605-can-place-flowers](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/0628-maximum-product-of-three-numbers) |
 | [0782-transform-to-chessboard](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/0782-transform-to-chessboard) |
 | [0854-making-a-large-island](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/0854-making-a-large-island) |
@@ -244,6 +245,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0605-can-place-flowers](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/0605-can-place-flowers) |
 | [2029-stone-game-ix](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
