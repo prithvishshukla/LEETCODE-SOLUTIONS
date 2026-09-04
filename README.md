@@ -11,6 +11,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/0036-valid-sudoku) |
+| [0066-plus-one](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/0169-majority-element) |
@@ -82,6 +83,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/0029-divide-two-integers) |
+| [0066-plus-one](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/0067-add-binary) |
 | [0171-excel-sheet-column-number](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/0171-excel-sheet-column-number) |
 | [0231-power-of-two](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/0231-power-of-two) |
