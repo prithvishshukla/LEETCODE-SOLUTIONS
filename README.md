@@ -165,6 +165,7 @@
 | [1768-merge-strings-alternately](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/1768-merge-strings-alternately) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2942-find-words-containing-character](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/2942-find-words-containing-character) |
+| [3498-reverse-degree-of-a-string](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/3498-reverse-degree-of-a-string) |
 | [3955-valid-binary-strings-with-cost-limit](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/3955-valid-binary-strings-with-cost-limit) |
 ## Stack
 |  |
@@ -176,6 +177,7 @@
 | [0067-add-binary](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/0067-add-binary) |
 | [0657-robot-return-to-origin](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/0657-robot-return-to-origin) |
 | [2974-minimum-number-game](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/2974-minimum-number-game) |
+| [3498-reverse-degree-of-a-string](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/3498-reverse-degree-of-a-string) |
 ## Two Pointers
 |  |
 | ------- |
