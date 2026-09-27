@@ -165,6 +165,7 @@
 | [0389-find-the-difference](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/0389-find-the-difference) |
 | [0657-robot-return-to-origin](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/0657-robot-return-to-origin) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1768-merge-strings-alternately](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/1768-merge-strings-alternately) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2942-find-words-containing-character](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/2942-find-words-containing-character) |
@@ -174,6 +175,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/0020-valid-parentheses) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Simulation
 |  |
 | ------- |
@@ -287,4 +289,8 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/0387-first-unique-character-in-a-string) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
