@@ -12,6 +12,7 @@
 | [0035-search-insert-position](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/0036-valid-sudoku) |
 | [0066-plus-one](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/0066-plus-one) |
+| [0074-search-a-2d-matrix](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/0169-majority-element) |
@@ -51,6 +52,7 @@
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/0035-search-insert-position) |
+| [0074-search-a-2d-matrix](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/0074-search-a-2d-matrix) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -77,6 +79,7 @@
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/0036-valid-sudoku) |
+| [0074-search-a-2d-matrix](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/0074-search-a-2d-matrix) |
 | [0782-transform-to-chessboard](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/0782-transform-to-chessboard) |
 | [0854-making-a-large-island](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/0854-making-a-large-island) |
 | [1672-richest-customer-wealth](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/1672-richest-customer-wealth) |
