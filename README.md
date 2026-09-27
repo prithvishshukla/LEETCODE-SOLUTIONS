@@ -41,6 +41,7 @@
 | [0036-valid-sudoku](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/0036-valid-sudoku) |
 | [0169-majority-element](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/0169-majority-element) |
 | [0187-repeated-dna-sequences](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/0187-repeated-dna-sequences) |
+| [0387-first-unique-character-in-a-string](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/0389-find-the-difference) |
 | [2448-count-number-of-bad-pairs](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/2448-count-number-of-bad-pairs) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -102,6 +103,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/0169-majority-element) |
+| [0387-first-unique-character-in-a-string](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/0387-first-unique-character-in-a-string) |
 | [2029-stone-game-ix](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/2029-stone-game-ix) |
 | [2448-count-number-of-bad-pairs](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/2448-count-number-of-bad-pairs) |
 ## Sorting
@@ -159,6 +161,7 @@
 | [0171-excel-sheet-column-number](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/0171-excel-sheet-column-number) |
 | [0187-repeated-dna-sequences](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/0187-repeated-dna-sequences) |
 | [0345-reverse-vowels-of-a-string](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/0345-reverse-vowels-of-a-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/0389-find-the-difference) |
 | [0657-robot-return-to-origin](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/0657-robot-return-to-origin) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/1071-greatest-common-divisor-of-strings) |
@@ -280,4 +283,8 @@
 |  |
 | ------- |
 | [3903-smallest-stable-index-i](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/3903-smallest-stable-index-i) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
