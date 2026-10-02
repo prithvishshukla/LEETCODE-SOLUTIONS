@@ -144,6 +144,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/0022-generate-parentheses) |
 | [0464-can-i-win](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/0464-can-i-win) |
 | [0486-predict-the-winner](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/0486-predict-the-winner) |
 ## Game Theory
@@ -158,6 +159,7 @@
 | [0006-zigzag-conversion](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/0006-zigzag-conversion) |
 | [0013-roman-to-integer](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/0067-add-binary) |
@@ -211,6 +213,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/0022-generate-parentheses) |
 | [0401-binary-watch](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/0401-binary-watch) |
 | [3955-valid-binary-strings-with-cost-limit](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/3955-valid-binary-strings-with-cost-limit) |
 ## Enumeration
@@ -296,5 +299,6 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/0022-generate-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
