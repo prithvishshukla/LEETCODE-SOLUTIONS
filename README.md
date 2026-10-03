@@ -145,6 +145,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/0032-longest-valid-parentheses) |
 | [0464-can-i-win](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/0464-can-i-win) |
 | [0486-predict-the-winner](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/0486-predict-the-winner) |
 ## Game Theory
@@ -161,6 +162,7 @@
 | [0020-valid-parentheses](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0032-longest-valid-parentheses](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/0032-longest-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/0067-add-binary) |
 | [0171-excel-sheet-column-number](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/0171-excel-sheet-column-number) |
@@ -180,6 +182,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/0032-longest-valid-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Simulation
 |  |
@@ -300,5 +303,6 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/0032-longest-valid-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
