@@ -27,6 +27,7 @@
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2029-stone-game-ix](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/2029-stone-game-ix) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2448-count-number-of-bad-pairs](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/2448-count-number-of-bad-pairs) |
 | [2942-find-words-containing-character](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/2942-find-words-containing-character) |
 | [2974-minimum-number-game](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/2974-minimum-number-game) |
@@ -53,6 +54,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/0074-search-a-2d-matrix) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -116,6 +118,7 @@
 | [0169-majority-element](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/0169-majority-element) |
 | [0389-find-the-difference](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/0389-find-the-difference) |
 | [0628-maximum-product-of-three-numbers](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/0628-maximum-product-of-three-numbers) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2974-minimum-number-game](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/2974-minimum-number-game) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/3731-find-missing-elements) |
@@ -207,6 +210,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [2333-minimum-sum-of-squared-difference](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2974-minimum-number-game](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/2974-minimum-number-game) |
 ## Divide and Conquer
 |  |
@@ -270,6 +274,7 @@
 | ------- |
 | [0605-can-place-flowers](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/0605-can-place-flowers) |
 | [2029-stone-game-ix](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/2029-stone-game-ix) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Minimax
 |  |
 | ------- |
