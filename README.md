@@ -19,6 +19,7 @@
 | [0486-predict-the-winner](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/0486-predict-the-winner) |
 | [0605-can-place-flowers](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/0628-maximum-product-of-three-numbers) |
+| [0643-maximum-average-subarray-i](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/0643-maximum-average-subarray-i) |
 | [0782-transform-to-chessboard](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/0782-transform-to-chessboard) |
 | [0854-making-a-large-island](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/0854-making-a-large-island) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/1018-binary-prefix-divisible-by-5) |
@@ -240,6 +241,7 @@
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/0187-repeated-dna-sequences) |
+| [0643-maximum-average-subarray-i](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/0643-maximum-average-subarray-i) |
 ## Rolling Hash
 |  |
 | ------- |
