@@ -104,6 +104,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/0628-maximum-product-of-three-numbers) |
 | [0782-transform-to-chessboard](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/0782-transform-to-chessboard) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1922-count-good-numbers](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/1922-count-good-numbers) |
 | [2029-stone-game-ix](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/2029-stone-game-ix) |
 | [2448-count-number-of-bad-pairs](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/2448-count-number-of-bad-pairs) |
