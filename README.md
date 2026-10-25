@@ -24,6 +24,7 @@
 | [0854-making-a-large-island](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/0854-making-a-large-island) |
 | [0977-squares-of-a-sorted-array](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/0977-squares-of-a-sorted-array) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/1018-binary-prefix-divisible-by-5) |
+| [1254-number-of-closed-islands](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/1254-number-of-closed-islands) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1672-richest-customer-wealth](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/1672-richest-customer-wealth) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/1822-sign-of-the-product-of-an-array) |
@@ -65,11 +66,13 @@
 | ------- |
 | [0684-redundant-connection](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/0684-redundant-connection) |
 | [0854-making-a-large-island](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/0854-making-a-large-island) |
+| [1254-number-of-closed-islands](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/1254-number-of-closed-islands) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0684-redundant-connection](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/0684-redundant-connection) |
 | [0854-making-a-large-island](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/0854-making-a-large-island) |
+| [1254-number-of-closed-islands](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/1254-number-of-closed-islands) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 ## Union Find
 |  |
@@ -89,6 +92,7 @@
 | [0074-search-a-2d-matrix](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/0074-search-a-2d-matrix) |
 | [0782-transform-to-chessboard](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/0782-transform-to-chessboard) |
 | [0854-making-a-large-island](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/0854-making-a-large-island) |
+| [1254-number-of-closed-islands](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/1254-number-of-closed-islands) |
 | [1672-richest-customer-wealth](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/1672-richest-customer-wealth) |
 ## Math
 |  |
@@ -327,4 +331,8 @@
 | [0022-generate-parentheses](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/0032-longest-valid-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+## Union-Find
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/1254-number-of-closed-islands) |
 <!---LeetCode Topics End-->
