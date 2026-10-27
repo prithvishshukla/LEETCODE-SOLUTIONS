@@ -114,6 +114,7 @@
 | [1922-count-good-numbers](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/1922-count-good-numbers) |
 | [2029-stone-game-ix](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/2029-stone-game-ix) |
 | [2448-count-number-of-bad-pairs](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/2448-count-number-of-bad-pairs) |
+| [2520-count-the-digits-that-divide-a-number](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2652-sum-multiples](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/2652-sum-multiples) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 ## Counting
