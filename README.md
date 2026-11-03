@@ -39,6 +39,7 @@
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3429-special-array-i](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/3429-special-array-i) |
 | [3731-find-missing-elements](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/3731-find-missing-elements) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3903-smallest-stable-index-i](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/3903-smallest-stable-index-i) |
 ## Hash Table
 |  |
@@ -117,6 +118,7 @@
 | [2520-count-the-digits-that-divide-a-number](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2652-sum-multiples](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/2652-sum-multiples) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/2894-divisible-and-non-divisible-sums-difference) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Counting
 |  |
 | ------- |
