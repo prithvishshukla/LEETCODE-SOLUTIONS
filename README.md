@@ -16,6 +16,7 @@
 | [0088-merge-sorted-array](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/0169-majority-element) |
+| [0238-product-of-array-except-self](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/0238-product-of-array-except-self) |
 | [0486-predict-the-winner](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/0486-predict-the-winner) |
 | [0605-can-place-flowers](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/0628-maximum-product-of-three-numbers) |
@@ -322,6 +323,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/0238-product-of-array-except-self) |
 | [3903-smallest-stable-index-i](https://github.com/prithvishshukla/LEETCODE-SOLUTIONS/tree/master/3903-smallest-stable-index-i) |
 ## Queue
 |  |
